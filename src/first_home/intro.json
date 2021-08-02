@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "title": "Dear ! Readers",
+      "subTitle": "Get register and choose your membership, based on how much you love to read books & watch movies. that's it! :)",
+      "image": "/images/firstImageGroup/b19.jpg",
+      "alt": "membership",
+      "direction": "row"
+    },
+    {
+      "id": 2,
+      "title": "Hello Dear ! readers",
+      "subTitle": "Members can lend any books from anywhere with low subscription. ",
+      "image": "/images/firstImageGroup/b9.png",
+      "alt": "books",
+      "direction": "row-reverse"
+    },
+    {
+      "id": 3,
+      "title": "Surprise ! movie fans",
+      "subTitle": "Members can lend any Movies from anywhere with low subscription.",
+      "image": "/images/firstImageGroup/b8.png",
+      "alt": "movies",
+      "direction": "row"
+    }
+  ]
